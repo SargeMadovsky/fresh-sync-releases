@@ -1,0 +1,11 @@
+{
+    "version": "0.1.1",
+    "download_url": "https://raw.githubusercontent.com/SargeMadovsky/fresh-sync-releases/main/releases/fresh-sync-0.1.1.zip",
+    "sha256": "cf5543d3491577d9af6256d84c2e78d52f9dc71a6d41e132b52bb24d35faed74",
+    "size": 38481,
+    "requires": "5.7",
+    "requires_php": "7.4",
+    "tested": "",
+    "released": "2026-11-15 13:16:55 UTC",
+    "changelog": "- Автообновление плагина из GitHub\n- Отбор по реквизиту «Выгружать на сайт»: опция «только если остаток в 1С не меньше 1»\n- Страница настроек: статус и автозапуск обновляются без перезагрузки, заметки и таблица в две колонки"
+}
